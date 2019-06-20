@@ -1,0 +1,7 @@
+<resources>
+    <string name="introduce">智能聊天机器人，只能聊天机器人</string>
+    <string name="app_name">聊天机器人</string>
+    <string-array name="data">
+        <item>聊天机器人为您服务</item>
+    </string-array>
+</resources>
